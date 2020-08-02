@@ -3,6 +3,21 @@ clear
 
 ###
 #
+#
+#	Batch PDF Image Extractor 1.0.1
+#
+#	Lead Author: Lee Hodson
+#	Donate: paypal.me/vr51
+#	Website: https://journalxtra.com
+#	First Written: 18th Oct. 2015
+#	First Release: 2nd Nov. 2015
+#	This Release: 24th Jun. 2017
+#
+#	Copyright 2016 Lee Hodson <https://journalxtra.com>
+#	License: GPL3
+#
+#	Programmer: Lee Hodson <journalxtra.com>, VR51 <vr51.com>
+#
 #	TO RUN:
 #
 #	- Ensure the script is executable.
